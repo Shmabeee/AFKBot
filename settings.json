@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "negawatt.aternos.me",
+    "ip": "sunfish.aternos.host",
     "port": 18124,
     "version": "26.2",
     "try-creative": false
